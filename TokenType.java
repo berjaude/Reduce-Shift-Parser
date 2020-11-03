@@ -1,4 +1,3 @@
-package edu;
 
 public class TokenType {
 	private String terminal;
